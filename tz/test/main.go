@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"gopkg.in/ugjka/go-tz.v2/tz"
+	"gopkg.in/rhinosf1/go-tz.v2/tz"
 )
 
 func main() {
