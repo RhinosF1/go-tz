@@ -24,7 +24,7 @@ jobs:
       - name: Install packages
         run: |
           go get -u golang.org/x/lint/golint
-          go get -d -t .
+          go get -d -t ./tz/...
       - name: Show go version
         run: |
           go version
