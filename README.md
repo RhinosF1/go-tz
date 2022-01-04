@@ -2,17 +2,16 @@
 
 tz-lookup by lon and lat
 
-[![GoDoc](https://godoc.org/gopkg.in/ugjka/go-tz.v2?status.svg)](http://godoc.org/gopkg.in/ugjka/go-tz.v2/tz)
-[![Go Report Card](https://goreportcard.com/badge/gopkg.in/ugjka/go-tz.v2)](https://goreportcard.com/report/gopkg.in/ugjka/go-tz.v2)
+[![GoDoc](https://godoc.org/gopkg.in/rhinosf1/go-tz.v2?status.svg)](http://godoc.org/gopkg.in/rhinosf1/go-tz.v2/tz)
+[![Go Report Card](https://goreportcard.com/badge/gopkg.in/rhinosf1/go-tz.v2)](https://goreportcard.com/report/gopkg.in/rhinosf1/go-tz.v2)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Donate](paypal.svg?raw=true)](https://www.paypal.me/ugjka)
 
 lookup timezone for a given location
 
 ## Usage
 
 ```go
-import "gopkg.in/ugjka/go-tz.v2/tz"
+import "gopkg.in/rhinosf1/go-tz.v2/tz"
 ```
 
 ### Example
