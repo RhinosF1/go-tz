@@ -1,4 +1,4 @@
-module gopkg.in/ugjka/go-tz.v2
+module gopkg.in/rhinosf1/go-tz.v2
 
 require (
 	github.com/machinebox/progress v0.2.0
